@@ -1,0 +1,4 @@
+# /etc/nanorc
+set nowrap
+
+include "/etc/git.nanorc"
